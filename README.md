@@ -63,3 +63,13 @@ GOOGLE_API_KEY=your_google_api_key
 npm start
 
 # 5. Open the app
+[tools.js](https://github.com/user-attachments/files/22426680/tools.js)
+[style.css](https://github.com/user-attachments/files/22426679/style.css)
+[server.js](https://github.com/user-attachments/files/22426678/server.js)
+[package-lock.json](https://github.com/user-attachments/files/22426677/package-lock.json)
+[package.json](https://github.com/user-attachments/files/22426676/package.json)
+[main.js](https://github.com/user-attachments/files/22426674/main.js)
+[lf-smoke.js](https://github.com/user-attachments/files/22426673/lf-smoke.js)
+[index.js](https://github.com/user-attachments/files/22426672/index.js)
+[index.html](https://github.com/user-attachments/files/22426671/index.html)
+[chat.js](https://github.com/user-attachments/files/22426670/chat.js)
